@@ -1,0 +1,2 @@
+Java Programming,John Doe,Programming,12345,false,0,350
+Learning Python,Jane Smith,Programming,67890,true,0,300
